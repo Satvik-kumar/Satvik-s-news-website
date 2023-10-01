@@ -18,7 +18,7 @@
    - If your project requires configuration files or environment variables, explain how to set them up.
 
 6. **API Usage:**
-   - If your project relies on external APIs (like the GitHub API), provide instructions on how to obtain API keys and how they should be used.
+   - If your project relies on external APIs, provide instructions on how to obtain API keys and how they should be used.
 
 7. **Authentication:**
    - If your project requires authentication (e.g., GitHub OAuth), explain the setup process and how users can authenticate.
@@ -50,7 +50,8 @@
     - Acknowledge contributors, libraries, and resources that have been used in the project.
 
 15. **Contact Information:**
-    - Provide contact information (email, social media, etc.) for users and developers to reach out with questions or feedback.
+    -any further requirement then u can mail in below website
+      email id- satvikkumar21365@gmail.com
 
 16. **Version History:**
     - Maintain a version history or changelog to track changes and updates to the project.
